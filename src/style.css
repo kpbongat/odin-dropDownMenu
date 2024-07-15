@@ -1,0 +1,17 @@
+.hide {
+  display: none;
+}
+
+ul {
+  background-color: grey;
+  width: 200px;
+  padding: 20px 0;
+}
+
+li {
+  list-style-type: none;
+}
+
+li > button {
+  width: 100%;
+}
